@@ -17,5 +17,5 @@
 - 최지은
 - 구세영
 
-## 코인 이코노미
+## 토큰 이코노미
 ![c211f2c3-f898-45dc-aef0-ba549323f328](https://user-images.githubusercontent.com/31407544/46522621-3f87b580-c8be-11e8-954c-7990ff59d70f.jpeg)
